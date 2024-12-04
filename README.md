@@ -6,7 +6,7 @@ Welcome to my Power BI Portfolio! This repository showcases four unique and impa
 
 ## Projects
 
-### 1. New Supplier Requests Dashboard
+### 1. New Supplier Form Dashboard
 **Overview:**  
 This dashboard focuses on optimizing supplier management processes by providing visibility into supplier requests, reasons for reinstatement, and key performance indicators (KPIs). It enables organizations to identify inefficiencies and improve workflows.
 
@@ -40,7 +40,7 @@ Provides actionable insights into PO management and inventory planning, streamli
 
 ---
 
-### 3. Looking After Dashboard
+### 3. Looking After Job Family Proceeses Dashboard
 **Overview:**  
 This dashboard is designed for property management and conservation teams, offering a consolidated view of operations across multiple portfolios. It tracks key metrics for conservation, curatorial efforts, and climate resilience.
 
@@ -55,7 +55,7 @@ Equips property managers with actionable insights, enabling them to prioritize t
 
 ---
 
-### 4. Reactive Repair KPI Dashboard
+### 4. Electric Request Dashboard For Contract Managers
 **Overview:**  
 This project tracks the performance of reactive repair jobs across properties, with an emphasis on meeting KPIs and ensuring timely responses to critical issues.
 
