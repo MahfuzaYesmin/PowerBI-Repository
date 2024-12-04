@@ -117,4 +117,5 @@ This portfolio highlights my ability to:
 
 ## Contact
 📧 **Email:** mahfuzayesmin95@gmail.com  
-
+💼 **LinkedIn:** www.linkedin.com/in/mahfuza-yesmin
+ 
