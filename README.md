@@ -111,8 +111,9 @@ This portfolio highlights my ability to:
 1. **Deliver Value:** Each dashboard solves real-world business challenges, from supplier management to property conservation.  
 2. **Showcase Expertise:** Demonstrates advanced Power BI skills, including data modeling, DAX calculations, and visualization techniques.  
 3. **Collaborate Effectively:** Reflects teamwork and the ability to translate diverse stakeholder requirements into practical solutions.  
-4. **Drive Impact:** Highlights measurable outcomes, such as improved efficiency, cost reduction, and compliance tracking.  
-
+4. **Drive Impact:** Highlights measurable outcomes, such as improved efficiency, cost reduction, and compliance tracking.
+5. **PowerApps:** This repository includes screenshots of several PowerApps applications I’ve developed. One app integrates with Power BI reports to enable consultancy managers to effectively track both national and regional projects. Another app is designed for Facilities Managers, helping them manage electrical requests efficiently, replacing cumbersome SharePoint lists and spreadsheets with a streamlined, user-friendly PowerApps interface.
+6. **Data Gathering:**  Showcases my expertise in coordinating with diverse stakeholders to collect relevant data from the appropriate sources. This demonstrates my ability to implement effective data validation techniques to ensure data accuracy, consistency, and meaningful insights, ultimately driving data-driven decision-making.
 ---
 
 ## Contact
